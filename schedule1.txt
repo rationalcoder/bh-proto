@@ -1,0 +1,24 @@
+Milestone 1: (2/20)
+    - Glass Chunks
+    - Simple lobby platform with teleporter
+    - Gun that shoots right, but doesn't actually do anything.
+    - 2 player
+    - Basic controls and feel
+
+Milestone 2: (3/20)
+    - Gun that shoots different selected items.
+    - All items except missles fully work.
+    - Start Missle Mechanics
+    - Player, glass and missle damange
+
+(4/24):
+    - Finish missle/item mechanics
+    - Action bar + HUD (cross-hair, health, etc.)
+    - Inventory item updater thing.
+    - Breaking through wins.
+
+(5/5):
+    - Leeway for nitty-gritties that I haven't even realized were a problem, yet.
+
+(5/8):
+    - Showtime!
