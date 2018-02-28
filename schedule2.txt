@@ -1,0 +1,32 @@
+Legend:
+    - => TODO
+    * => in progress
+    > => done
+
+Milestone 1: (2/20)
+    > Main UI flow
+    > Profile creation
+    > Simple lobby platform with team chooser
+    > Basic controls and feel
+
+Milestone 2: (3/20)
+    > Multiplayer Lobby
+    * (3/1) Persist teams from lobby to game.
+    - Glass chunks
+    - Gun that shoots different selected items.
+    - All items except missles fully work.
+    - Start Missle Mechanics
+
+(4/24):
+    - Glass damage and player damage/interaction
+    - Finish missle/item mechanics
+    - Action bar + HUD (cross-hair, health, etc.)
+    - Inventory item updater thing.
+    - Breaking through wins.
+
+(5/5):
+    - Polish
+    - Leeway for nitty-gritties that I haven't even realized were a problem, yet.
+
+(5/8):
+    - Showtime!
