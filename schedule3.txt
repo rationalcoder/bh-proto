@@ -18,7 +18,7 @@ Milestone 2: (3/20)
     - Start Missle Mechanics
 
 (4/24):
-    - Glass damage and player damage/interaction
+    * Glass damage and player damage/interaction
     - Finish missle/item mechanics
     - Action bar + HUD (cross-hair, health, etc.)
     - Inventory item updater thing.
